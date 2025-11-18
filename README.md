@@ -1,4 +1,4 @@
-# Chargerrr - EV Charging Station Finder
+# ChargeHub - EV Charging Station Finder
 
 A Flutter mobile app to help electric vehicle owners find nearby charging stations. 
 
