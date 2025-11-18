@@ -1,6 +1,6 @@
 # Chargerrr - EV Charging Station Finder
 
-A Flutter mobile app to help electric vehicle owners find nearby charging stations. This project was built as part of a Flutter development assessment.
+A Flutter mobile app to help electric vehicle owners find nearby charging stations. 
 
 ## What We Built
 
